@@ -11,4 +11,4 @@ def test_list():
     assert test_list[-1] == 3
 
 if __name__ == "__main__":
-    print("所有測試通過！") 
+    print("所有測試通過好耶！") 
